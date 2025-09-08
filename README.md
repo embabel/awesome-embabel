@@ -13,7 +13,7 @@ Get started with your own repos:
 ## Examples
 
 - [Official Embabel agent examples](https://github.com/embabel/embabel-agent-examples) - Java and Kotlin examples ranging from simple to moderately complex
-- [Embabel travel planner]([Java agent template](https://github.com/embabel/tripper) - Sophisticatd, full-featured travel planner
+- [Embabel travel planner](https://github.com/embabel/tripper) - Sophisticated, full-featured travel planner
 
 
 ## Documentation
