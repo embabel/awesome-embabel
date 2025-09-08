@@ -1,0 +1,2 @@
+# awesome-embabel
+Embabel resources
