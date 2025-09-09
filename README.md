@@ -42,6 +42,7 @@ Comparison with Python frameworks:
 - [Jettro Coenradie's Blog](https://jettro.dev/) - Hands-on tutorials and practical guides for building agents with Embabel:
   - [Building Agents with Embabel: A Hands-On Introduction](https://jettro.dev/building-agents-with-embabel-a-hands-on-introduction-4f96d2edeac0) - Practical guide to Goal-Oriented Action Planning (GOAP) with Spring AI integration
   - [Creating and using an MCP server using Spring AI and Embabel](https://jettro.dev/creating-and-using-an-mcp-server-using-spring-ai-and-embabel-09637fb0c733) - Building Model Context Protocol servers for enhanced LLM communication
+- [A Simple Agent to summarize web content using Embabel](https://abaddon-gtz.blogspot.com/2025/07/a-simple-agent-to-summarize-web-content.html) - Blog by Rafael Gutierrez
 
 ## Videos
 
