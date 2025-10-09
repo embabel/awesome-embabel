@@ -49,6 +49,8 @@ Comparison with Python frameworks:
 - [Embabel Introduction](https://www.youtube.com/watch?v=FfxmAR6AGrI) - *Code Unboxing: Embabel Agentic AI framework* with Josh Long, James Ward and Rod Johnson
 - [Building Agents with Embabel](https://www.youtube.com/watch?v=lqQ_NL4y5Qg&t=7s&ab_channel=SivaLabs) - Hands-on tutorial by SivaLabs on creating agents with Embabel
 - [Private LLM Agents on the JVM: Lessons from GOAP with Embabel](https://www.youtube.com/watch?v=AFS3aY-eHoY) - entwickler Summit talk by Pierre Davies and Sasha Saw of [Incept5](https://www.incept5.com/), Berlin, September 18, 2025.
+- [AI Guide to the Galaxy episode on Embabel](https://www.youtube.com/watch?v=9iyFYrUI5CY&feature=youtu.be) - Rod Johnson and Oleg Šelajev
+- [Rod Johnson keynote at Devoxx Belgium 2025](https://www.youtube.com/watch?v=dbx1_P7W1DM) - *Why You Should Build Agents on the JVM*
 
 ## Articles
 
