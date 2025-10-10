@@ -51,6 +51,7 @@ Comparison with Python frameworks:
 - [Private LLM Agents on the JVM: Lessons from GOAP with Embabel](https://www.youtube.com/watch?v=AFS3aY-eHoY) - entwickler Summit talk by Pierre Davies and Sasha Saw of [Incept5](https://www.incept5.com/), Berlin, September 18, 2025.
 - [AI Guide to the Galaxy episode on Embabel](https://www.youtube.com/watch?v=9iyFYrUI5CY&feature=youtu.be) - Rod Johnson and Oleg Šelajev
 - [Rod Johnson keynote at Devoxx Belgium 2025](https://www.youtube.com/watch?v=dbx1_P7W1DM) - *Why You Should Build Agents on the JVM*
+- [Rod Johnson hands-on coding session at Devoxx Beligum 2025](https://www.youtube.com/watch?v=_Y-srK-Ad4c) - *Gen AI Grows Up*
 
 ## Articles
 
