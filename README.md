@@ -58,6 +58,7 @@ Comparison with Python frameworks:
 - [Embabel Puts a Spring in Your Agents Step](https://ainativedev.io/news/embabel-just-got-released) - AiNativeDev article by Dion Almaer
 - [Meet Embabel: A Framework for Building AI Agents With Java](https://thenewstack.io/meet-embabel-a-framework-for-building-ai-agents-with-java/) - New Stack article by Russ Miles
 - [Introducing Embabel: Advanced AI Agent Development For Java Applications](https://www.infoq.com/news/2025/06/introducing-embabel-ai-agent/) - InfoQ article by A N M Bazlur Rahman
+- [Building an AI Agent in Java with the Embabel Framework](https://www.javacodegeeks.com/building-an-ai-agent-in-java-with-the-embabel-framework.html) - Java Code Geeks article by Omozegie Aziegbe, with a complete example that creates a social media post after retrieving a blog using web tools
 
 ## Upcoming Events
 
