@@ -37,6 +37,7 @@ Rod Johnson, creator of Spring Framework and Embabel, writes extensively about t
 Comparison with Python frameworks:
 - [You Can Build Better AI Agents in Java Than Python](https://medium.com/@springrod/you-can-build-better-ai-agents-in-java-than-python-868eaf008493) - Comprehensive comparison with CrewAI showing how Embabel's type safety and planner approach eliminates magic strings
 - [Build Better Agents in Java Than Python: Embabel vs Pydantic AI](https://medium.com/@springrod/build-better-agents-in-java-than-python-embabel-vs-pydantic-ai-ab373c149108) - Side-by-side comparison showing how Embabel provides clearer structure and better integration than Python alternatives
+- [Build Better Agents in Java vs Python: Embabel vs LangGraph](https://medium.com/@springrod/build-better-agents-in-java-vs-python-embabel-vs-langgraph-f7951a0d855c) - Detailed comparison with LangGraph
 
 ### Community Blogs
 - [Jettro Coenradie's Blog](https://jettro.dev/) - Hands-on tutorials and practical guides for building agents with Embabel:
