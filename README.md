@@ -18,7 +18,7 @@ Get started with your own repos:
 
 ## Documentation
 
-- [Reference docs](https://docs.embabel.com/embabel-agent/guide/0.1.3-SNAPSHOT/index.html)
+- [Reference docs](https://docs.embabel.com/embabel-agent/guide/0.3.3/)
 
 ## Implementation Repos
 
