@@ -59,6 +59,9 @@ Late 2025 / 2026 posts:
 
 ## Videos
 
+- [Devnexus 2026 - Hands on Embabel](https://www.youtube.com/watch?v=5hG2Nz4oV0I) - Rod Johnson shares real-world examples, demonstrates how developers can experiment with AI systems, integrate them into workflows, and rapidly prototype intelligent features using modern tools and frameworks.
+- [Building AI Agents in Java with Embabel](https://www.youtube.com/watch?v=G5VDQCZu6t0) - Hand-on tutorial by Dan Vega exploring Embabel's core concepts and building a blog writing agent from scratch.
+- [Build REST API Based AI Agents using Embabel Framework](https://www.youtube.com/watch?v=CZCLuGRL6pg) - Learn how to build production-ready REST API based AI agents using the Embabel Framework and Spring Boot with BootcampToProd
 - [Embabel Introduction](https://www.youtube.com/watch?v=FfxmAR6AGrI) - *Code Unboxing: Embabel Agentic AI framework* with Josh Long, James Ward and Rod Johnson
 - [Building Agents with Embabel](https://www.youtube.com/watch?v=lqQ_NL4y5Qg&t=7s&ab_channel=SivaLabs) - Hands-on tutorial by SivaLabs on creating agents with Embabel
 - [Private LLM Agents on the JVM: Lessons from GOAP with Embabel](https://www.youtube.com/watch?v=AFS3aY-eHoY) - entwickler Summit talk by Pierre Davies and Sasha Saw of [Incept5](https://www.incept5.com/), Berlin, September 18, 2025.
